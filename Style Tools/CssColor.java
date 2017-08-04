@@ -1,5 +1,7 @@
 /* JavaFX/CSS Colors
- * 
+ * author: jannstz (jannstz@gmail.com)
+ * last update: 2017.08.04
+ *
  * A simple app to look up CSS color names that are compatible with JavaFX.
  * Displays button for each CSS color. Clicking prints color name to console. 
  */
